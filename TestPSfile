@@ -2,10 +2,10 @@
 
 $Name = Read-Host -prompt "Hello visitor! What's your name?"
 Write-Host "`nWhy hello there little $name. Thanks for visiting"
-Read-Host -prompt "`nPress 'Enter' to exit."
-Read-Host -prompt "`nJust kidding! This script will never exit.`nPress 'Enter' to exit."
-Read-Host -prompt "`nWhat the heck!?! Are you not pressing enter? Try again."
-Read-Host -prompt "`nHaha. Press enter to exit."
-Read-Host -prompt "`nYou suck."
-Read-Host -prompt "`nSeriously now. Bye."
+Read-Host -prompt "`nPress 'Enter' to exit"
+Read-Host -prompt "`nJust kidding! This script will never exit.`nPress 'Enter' to exit"
+Read-Host -prompt "`nWhat the heck!?! Are you not pressing enter? Try again"
+Read-Host -prompt "`nHaha. Press enter to exit"
+Read-Host -prompt "`nYou suck"
+Read-Host -prompt "`nSeriously now. Bye"
 exit
